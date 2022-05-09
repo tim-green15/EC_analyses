@@ -7,3 +7,4 @@ hyyt_daily <- read.csv("~/RDM/DATA/hyytiala/ICOS_drought2018data_hyyt/FLX_FI-Hyy
 
 
 #Sodankyla
+sod_daily <- read.csv()
